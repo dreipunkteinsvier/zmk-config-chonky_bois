@@ -1,0 +1,11 @@
+file_format: "1"
+id: chonkybois
+name: CHONKYBOIS
+type: shield
+url: https://github.com/sanderboer/chonkybois
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - chonkybois_left
+  - chonkybois_right
